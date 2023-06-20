@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266236282815",
+    "project_id": "healthyfood3-b474e",
+    "storage_bucket": "healthyfood3-b474e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266236282815:android:9f30d415da44601565830a",
+        "android_client_info": {
+          "package_name": "com.example.healthyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266236282815-66776tap2d2cmlt67sb04bu9pfcdijmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsxmMXtbtXmS5AzvTIiOOLSfUE0g-F2Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266236282815-66776tap2d2cmlt67sb04bu9pfcdijmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
